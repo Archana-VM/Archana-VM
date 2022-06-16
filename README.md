@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Archana .. 
 - 👀 I’m interested in Coding!
-- 🌱 I’m currently learning to be a full stack developer 
+- 🌱 I aspire to be a full stack developer 
 - 📫 Reach me archana.vm19@gmail.com
 
 <!---
